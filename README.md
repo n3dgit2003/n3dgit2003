@@ -88,7 +88,8 @@ I've interned at **ONGC** and **Edunet Foundation**, and I'm currently expanding
 | Certification | Issuer |
 |---|---|
 | Design and Analysis of Algorithms | NPTEL |
-| Programming, Data Structures and Algorithms Using Python — **Elite + Top 5%** | NPTEL |
+| Python for Data Science — **Elite + Silver + Top 5%** | NPTEL |
+| Programming, Data Structures and Algorithms Using Python | NPTEL |
 | Database Management Systems — **Elite Category** | NPTEL |
 | JavaScript Essentials 1 | Cisco Networking Academy |
 | Getting Started With Artificial Intelligence | IBM SkillsBuild |
