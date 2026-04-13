@@ -95,15 +95,6 @@ I've interned at **ONGC** and **Edunet Foundation**, and I'm currently expanding
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noelbijudaniel&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelbijudaniel&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
----
 
 <p align="center">
   <sub>Open to full-stack, backend, and software engineering roles · Available from 2026</sub>
